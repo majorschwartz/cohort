@@ -1,2 +1,2 @@
-# cohort
-## gamified training
+# Cohort
+### Gamified Training
